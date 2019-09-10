@@ -25,7 +25,7 @@ History for a series of commits is fluid.  This is honestly one of the most powe
 
 In the beginning you’ll make a lot of commits that look something like:
 ```
-Fixed merge conflicts
+Fixed merge conflict
 ```
 ```
 Trying to figure out how this works
